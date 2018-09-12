@@ -4,4 +4,30 @@
 
 ![alt text](https://github.com/dabootski/rn-take-home/blob/master/detail-view.png?raw=true)
 
-![alt text](https://github.com/dabootski/rn-take-home/blob/master/detail-view-scroll.png?raw=true)
+**Requirements**
+
+- Use `create-react-native-app` to implement the views in the above screenshots as closely as you can to the original designs. The park data should be pulled from the API endpoint below and used to populate both the list and detail views.
+
+- Parks API endpoint: https://firestore.googleapis.com/v1beta1/projects/rn-code-challenge/databases/(default)/documents/parks
+
+- The header bar background color should be `#8c1d40`.
+
+- The header bar font color should be `#ffc627`.
+
+- The parks should be sorted alphabetically on the list screen.
+
+- Pressing on a park row in the list screen should navigate the user to the detail view for that park. The header title in the detail screen should be the name of the park that was pressed on.
+
+- Pressing the **Back** button on the detail screen should navigate the user back to the list view.
+
+- The `acres` and `elevation` fields should have commas separating thousands (eg: `1,000` instead of `1000`). If `acres` or `elevation` are not numbers, the values should be displayed without any additional formatting.
+
+- Pressing the **More Info** link on the detail screen should open the link in Safari. The link _does not_ need to open within the app itself.
+
+- Your solution will be tested on the **iOS iPhone 8 Simulator**. There's no need for you to test on Android and/or older iOS versions/devises.
+
+**Time Expectations:**
+Please do not spend more than 4-6 hours on this project. If you're unable to complete all of the requirements within that time, submit what you've completed so we have something to discuss/review in-person.
+
+**Submitting Your Work**
+Email a zip file containing your source code (excluding your `node_modules` directory) to `jason@ackmanndickenson.com`. Good luck and thank you for your time!
