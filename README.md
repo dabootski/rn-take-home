@@ -8,6 +8,8 @@
 
 - Use `create-react-native-app` to implement the views in the above screenshots as closely as you can to the original designs
 
+- You're free to use any libraries you feel are appropriate
+
 - Park data should be pulled from the following API endpoint and used to populate both the list and detail views: https://firestore.googleapis.com/v1beta1/projects/rn-code-challenge/databases/(default)/documents/parks
 
 - The header bar background color should be `#8c1d40`
