@@ -34,4 +34,4 @@ Please do not spend more than 4-6 hours on this project. If you're unable to com
 
 #### Submitting Your Work
 
-Send an email to `jason@ackmanndickenson.com` containing a link to your repository (GitHub, Bitbucket, Google Drive, etc). Good luck and thank you for your time!
+Send an email to `jason@ackmanndickenson.com` containing a link to your source code (GitHub, Bitbucket, Google Drive, etc). Good luck and thank you for your time!
